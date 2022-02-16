@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3d973b35-26c9-0d63-797e-4ad4db47143f
 ---
@@ -210,7 +213,7 @@ Goffman, Erving. _Asylums_. Doubleday, 1961. (On total institutions.)
 
 Geertz, Clifford. "Deep Play," and "Thick Description." In _The Interpretation of Cultures_. Basic Books, 1973.
 
-Haraway, Donna. _Modest\_Witness@Second\_Millenium.FemaleMan©\_Meets\_OncoMouseTM_. Routledge, 1997.
+Haraway, Donna. _Modest\_Witness@Second\_Millenium.FemaleMan©\_Meets\_OncoMouse{{< sup "TM" >}}_. Routledge, 1997.
 
 Latour, Bruno. Chapter 2 in _We Have Never Been Modern._ 1993. (On the coproduction of political and scientific authority.)
 
