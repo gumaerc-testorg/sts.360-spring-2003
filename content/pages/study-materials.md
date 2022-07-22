@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a list of study materials on ethnography.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 482b4d05-adf4-1880-4ac4-3e907a6441c5
 ---
