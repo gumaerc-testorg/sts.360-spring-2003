@@ -4,6 +4,7 @@ description: 'The politics of independence and technological objects: Michael Fi
   learns to use a Gandhian spinning wheel of self-reliance. Ahmedabad, Gujurat, India,
   1984. (Image courtesy of Susann Wilkinson.)'
 file: /courses/sts-360-ethnography-spring-2003/7b6d52d553f50408d0942766fb4820d5_sts-360s03-th.jpg
+file_size: 13564
 file_type: image/jpeg
 image_metadata:
   caption: 'The politics of independence and technological objects: Michael Fischer
